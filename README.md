@@ -2,6 +2,8 @@
 
 ![alt text](/src/FULL_PIC.jpg)
 
+Source Code [here!](/src/smartswitch.ino)
+
 ### Overview
 This project implements an IoT-based Smart Switch using the ESP32 microcontroller. The system enables users to remotely control a traditional wall switch through a servo motor mechanism, eliminating the need to physically interact with the switch.
 
