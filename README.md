@@ -1,4 +1,7 @@
 # Non-Intrusive Smart IOT Switch Device For Bedroom Light With ESP32
+
+![alt text](FULL_PIC)
+
 ### Overview
 This project implements an IoT-based Smart Switch using the ESP32 microcontroller. The system enables users to remotely control a traditional wall switch through a servo motor mechanism, eliminating the need to physically interact with the switch.
 
