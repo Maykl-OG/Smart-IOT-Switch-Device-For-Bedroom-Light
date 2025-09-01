@@ -33,3 +33,6 @@ The motivation originated from a personal challenge: difficulty falling asleep b
 - Servo motor
 - Breadboard & jumper wires
 - Power supply
+
+### Video Demo
+![alt text](DEMO_VID.mp4)
