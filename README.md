@@ -18,3 +18,9 @@ The motivation originated from a personal challenge: difficulty falling asleep b
 3. Upon entering the correct password, the user gains access to the control page.
 4. The control page (at 192.168.4.1) provides ON/OFF buttons for device control.
 5. The ESP32 commands a servo motor, which mechanically toggles the wall switch.
+
+### Benefits
+- Convenience: Remote switching without modifying home electrical wiring.
+- Cost-Effective: Uses a servo motor as a physical actuator instead of specialized relay modules.
+- Improved User Experience: Enables seamless control from bed or any location within WiFi range.
+- Foundation for Smart Home Systems: Demonstrates a simple yet practical IoT home automation solution.
