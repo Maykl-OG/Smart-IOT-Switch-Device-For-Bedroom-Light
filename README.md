@@ -24,3 +24,9 @@ The motivation originated from a personal challenge: difficulty falling asleep b
 - Cost-Effective: Uses a servo motor as a physical actuator instead of specialized relay modules.
 - Improved User Experience: Enables seamless control from bed or any location within WiFi range.
 - Foundation for Smart Home Systems: Demonstrates a simple yet practical IoT home automation solution.
+
+### Hardware Components
+- ESP32 microcontroller
+- Servo motor
+- Breadboard & jumper wires
+- Power supply
