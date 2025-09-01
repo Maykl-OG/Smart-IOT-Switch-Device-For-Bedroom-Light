@@ -35,4 +35,4 @@ The motivation originated from a personal challenge: difficulty falling asleep b
 - Power supply
 
 ### Video Demo
-![alt text](DEMO_VID.mp4)
+!DEMO_VID.mp4
