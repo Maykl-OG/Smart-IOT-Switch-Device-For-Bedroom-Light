@@ -101,7 +101,7 @@ void setup() {
   servoOff.write(0);
 
   const char* ssid = "Bedroom_Light";
-  const char* password = "mekelganteng25";
+  const char* password = "HIDDEN";
 
   WiFi.softAP(ssid, password);
   WiFi.setTxPower(WIFI_POWER_19_5dBm);
